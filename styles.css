@@ -1,0 +1,40 @@
+#heading{
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 1px 2px #eee;
+}
+
+#logo{
+    padding: 20px;
+}
+
+#buttons{
+    font-size: medium;
+    display: flex;
+    color: #666;
+    cursor: pointer;
+}
+
+#photo{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+#login{
+    cursor: pointer;
+    background-color: #387ed1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 3px;
+}
+
+.option{
+    padding: 20px
+}
